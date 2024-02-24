@@ -6,16 +6,16 @@
 
 電源供給はCANからでも5V以上の電源をvccにつなぐことでもできる（つなぐのはどっちかの方がいいのではないかという説）
 
-LED0 : PB7
+LED0 : PC15
 
-LED1 : PB6
+LED1 : PC14
 
-LED2 : PB5
+LED2 : PC13
 
 CAN_RX : PB8
 
-CAN_TX : OB9
+CAN_TX : PB9
 
-EMS : PC13
+EMS : PA4
 
-CANのLEDにつながってるところ : PC14
+CANのLEDにつながってるところ : PA5
